@@ -19,4 +19,4 @@ jobs:
            pwd
            ls
            docker --version
-           docker build -t XXX --file `pwd`/Dockerfile `pwd`
+           docker build -t hhh --file `pwd`/Dockerfile `pwd`
