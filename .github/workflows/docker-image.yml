@@ -19,4 +19,4 @@ jobs:
            pwd
            ls
            docker --version
-           docker build -t nginx:latest .
+           docker build -t nginx .
