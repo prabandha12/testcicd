@@ -19,4 +19,4 @@ jobs:
            pwd
            ls
            docker --version
-           docker build -t mytrail .
+           docker build -t mytrail 
